@@ -1,7 +1,36 @@
+# ravenous
+
+This React app allows to search businesses via the Yelp API
+
+# Live Demo
+
+[http://adamant-paper.surge.sh/](http://adamant-paper.surge.sh/)
+
+
+## Description
+
+Built with React.js as part of the [Build Front-End Apps from Scratch course](https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch?ubv=upgrdsbws). It connects to the Yelp API and allows for searching businesses based on location.
+
+## Tech used
+
+* JavaScript ES6
+* React.js
+* Webpack, Babel, NPM
+* Yelp API
+
+# Acknowledgements
+
+This project was part of the [Build Front-End Apps from Scratch course](https://www.codecademy.com/pro/intensive/build-frontend-web-apps-from-scratch?ubv=upgrdsbws)
+
+</br>
+</br>
+</br>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+A more recent version of this guide can be found [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Table of Contents
 
